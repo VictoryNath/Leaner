@@ -1,14 +1,14 @@
 {
     "manifest": {
-        "author": "Victory Nath 🆖#9195",
-        "version": "1.1",
+        "author": "Victory Nath B)",
+        "version": "1.2",
         "name": "Leaner",
         "updater": "https:\/\/raw.githubusercontent.com\/VictoryNath\/Leaner\/main\/Gradient.json"
     },
     "background": {
         "blur_radius": 1,
         "url": "https:\/\/media.discordapp.net\/attachments\/835610924764495913\/965584365331566653\/1650283644581.png",
-        "overlay_alpha": 80
+        "overlay_alpha": 81
     },
     "fonts": {},
     "simple_colors": {
