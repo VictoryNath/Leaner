@@ -1,8 +1,9 @@
 {
     "manifest": {
-        "author": "Victory Nath 🆖#9195 💀",
+        "author": "Victory Nath 🆖#9195",
         "version": "1.1",
-        "name": "Leaner"
+        "name": "Leaner",
+        "updater": "https:\/\/raw.githubusercontent.com\/VictoryNath\/Leaner\/main\/Gradient.json"
     },
     "background": {
         "blur_radius": 1,
@@ -37,5 +38,5 @@
         "primary_dark_660": 1134058931
     },
     "drawable_tints": {},
-    "raws": {https://raw.githubusercontent.com/VictoryNath/Leaner/main/Gradient.json}
+    "raws": {}
 }
