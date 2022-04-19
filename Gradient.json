@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "Victory Nath 🆖#9195",
-        "version": "1.2",
+        "version": "1.3",
         "name": "Leaner",
         "updater": "https:\/\/raw.githubusercontent.com\/VictoryNath\/Leaner\/main\/Gradient.json"
     },
@@ -12,13 +12,14 @@
     },
     "fonts": {},
     "simple_colors": {
-        "accent": -1052689,
+        "accent": -5407038,
         "background": 823925788,
         "background_secondary": 840374039,
-        "mention_highlight": 1920897169,
+        "mention_highlight": 2021560465,
         "active_channel": -8110684,
         "statusbar": -10805130,
-        "input_background": -8110684
+        "input_background": -8110684,
+        "blocked_bg": 1957527234
     },
     "colors": {
         "brand": -5407038,
@@ -29,14 +30,32 @@
         "link": -14188851,
         "link_light": -9459234,
         "material_grey_50": -922636,
-        "uikit_btn_bg_color_selector_background_accent_light": -1120016,
+        "uikit_btn_bg_color_selector_background_accent_light": 1693378800,
         "uikit_btn_bg_color_selector_green": -14188851,
         "uikit_btn_bg_color_selector_red": 1602502052,
         "uikit_btn_bg_color_selector_secondary_dark": -1644826,
         "uikit_btn_bg_color_selector_secondary_light": -6129483,
         "uikit_btn_compound_color_selector_light": -1116457584,
-        "primary_dark_660": 1134058931
+        "primary_dark_660": 1134058931,
+        "abc_color_highlight_material": -8110684,
+        "highlighted_text_material_dark": -2490290,
+        "primary_dark_300": -14188851,
+        "primary_dark_400": -11824171
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "ic_mobile": -14188851,
+        "ic_add_friend_plus": -8110684,
+        "ic_stage_raised_hand_24dp_activatable": -8110684,
+        "ic_nitro_rep": -8110684,
+        "ic_status_invisible_16dp": -854796,
+        "ic_status_dnd_16dp": -2490290,
+        "ic_status_idle_16dp": -8110684,
+        "ic_status_online_16dp": -14188851,
+        "ic_status_streaming_16dp": -2490290,
+        "drawable_button_grey": -2490290,
+        "ic_bell_12dp": -14188851,
+        "ic_bell_16dp": -14188851,
+        "ic_bell_20dp": -14188851
+    },
     "raws": {}
 }
